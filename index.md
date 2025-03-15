@@ -16,7 +16,8 @@ I am a Ph.D. candidate at the Nano‑cybernetic Biotrek group at MIT Media Lab, 
 
 ## Education
 
-<i class="fa fa-graduation-cap"></i> S.M. , 2024 
+<i class="fa fa-graduation-cap"></i> Master of Science (S.M.) , 2024
+
 Massachusetts Institute of Technology
 
 <i class="fa fa-graduation-cap"></i> Bachelor of Technology in Electrical Engineering, Chemical Engineering, 2022  
