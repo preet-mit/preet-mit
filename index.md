@@ -20,5 +20,6 @@ I am a Ph.D. candidate at the Nano‑cybernetic Biotrek group at MIT Media Lab, 
 
 Massachusetts Institute of Technology
 
-<i class="fa fa-graduation-cap"></i> Bachelor of Technology in Electrical Engineering, Chemical Engineering, 2022  
+<i class="fa fa-graduation-cap"></i> Bachelor of Technology in Electrical Engineering, Chemical Engineering, 2022
+
 Indian Institute of Technology Kanpur
