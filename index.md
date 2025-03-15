@@ -8,9 +8,9 @@ I am a Ph.D. candidate at the Nano‑cybernetic Biotrek group at MIT Media Lab, 
 
 <i class="fa fa-book"></i> Micro/Nano Engineering
 
-<i class="fa fa-book"></i> Bioelectronics
+<i class="fa fa-book"></i> Optoelectronics
 
-<i class="fa fa-book"></i> Neuroscience
+<i class="fa fa-book"></i> Bioelectronics / Electroceuticals
 
 <i class="fa fa-book"></i> Neural Engineering
 
