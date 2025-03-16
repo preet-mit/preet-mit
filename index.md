@@ -25,5 +25,5 @@ Massachusetts Institute of Technology
 Indian Institute of Technology Kanpur
 
 {% assign research-page = site.pages | where: "path", "research.md" | first %}
-{{ research-page.content }}
+{{ research-page }}
 
