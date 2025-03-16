@@ -23,3 +23,7 @@ Massachusetts Institute of Technology
 <i class="fa fa-graduation-cap"></i> Bachelor of Technology in Electrical Engineering, Chemical Engineering, 2022
 
 Indian Institute of Technology Kanpur
+
+{% include research-content.html %}
+
+
