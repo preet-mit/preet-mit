@@ -26,7 +26,7 @@ Indian Institute of Technology Kanpur
 
 ## Research
 
----
+<hr>
 
 {% assign research-page = site.pages | where: "path", "research.md" | first %}
 {{ research-page.content }}
