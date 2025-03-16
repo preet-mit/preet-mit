@@ -32,3 +32,11 @@ Indian Institute of Technology Kanpur
 {{ research-page.content }}
 
 
+<div style="width:100%; padding:0; margin:0;">
+  ## Research
+  <hr>
+  {% assign research-page = site.pages | where: "path", "research.md" | first %}
+  {{ research-page.content }}
+</div>
+
+
