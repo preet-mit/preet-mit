@@ -24,6 +24,4 @@ Massachusetts Institute of Technology
 
 Indian Institute of Technology Kanpur
 
-{% include research-content.html %}
-
 
