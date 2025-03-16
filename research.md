@@ -3,7 +3,6 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
----
 
 <i class="fas fa-flask"></i> Bioelectronics / Electroceuticals
 
