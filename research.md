@@ -1,5 +1,5 @@
 ---
-layout: page
-permalink: /research/
+layout: default
+---
 
 {% include research-content.html %}
