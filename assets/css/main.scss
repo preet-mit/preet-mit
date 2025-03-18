@@ -2,3 +2,19 @@
 ---
 
 @import "main";
+
+/* Custom styles to increase page width */
+.container, .content-container, .wrapper, section {
+  max-width: 1280px !important; /* Increase from default */
+  width: 90% !important; /* Use 90% of screen width */
+}
+
+.row {
+  max-width: 100%;
+}
+
+/* Make images larger in their containers */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
