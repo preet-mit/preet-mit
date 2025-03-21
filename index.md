@@ -16,19 +16,15 @@ My name is Preet Patel, and I am currently a Ph.D. student at MIT. I earned my M
 
 ## Education
 
-<i class="fa fa-graduation-cap"></i> Master of Science (S.M.), MAS, 2024
-
-Massachusetts Institute of Technology
-
-<i class="fa fa-graduation-cap"></i> Bachelor of Technology, Major in Electrical Engineering and Chemical Engineering, Minor in Computer Science, 2022
-
-Indian Institute of Technology Kanpur
-
 <div style="margin-bottom: 20px;">
   <p style="margin: 0; padding: 0;"><i class="fa fa-graduation-cap"></i> Master of Science (S.M.), MAS, 2024</p>
   <p style="margin: 0; padding: 0;">Massachusetts Institute of Technology</p>
 </div>
 
+<div style="margin-bottom: 20px;">
+  <p style="margin: 0; padding: 0;"><i class="fa fa-graduation-cap"></i> Bachelor of Technology, Major in Electrical Engineering and Chemical Engineering, Minor in Computer Science, 2022</p>
+  <p style="margin: 0; padding: 0;">Indian Institute of Technology Kanpur</p>
+</div>
 
 
 
