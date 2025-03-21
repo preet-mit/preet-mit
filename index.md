@@ -24,6 +24,12 @@ Massachusetts Institute of Technology
 
 Indian Institute of Technology Kanpur
 
+<div style="margin-bottom: 20px;">
+  <p style="margin: 0; padding: 0;"><i class="fa fa-graduation-cap"></i> Master of Science (S.M.), MAS, 2024</p>
+  <p style="margin: 0; padding: 0;">Massachusetts Institute of Technology</p>
+</div>
+
+
 
 
 
