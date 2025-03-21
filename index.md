@@ -2,7 +2,7 @@
 layout: home
 title: "Home"
 ---
-I am a Ph.D. candidate at the Nano‑cybernetic Biotrek group at MIT Media Lab, with an interdisciplinary background in Engineering, Neuro‑science and Applied Physics. My goal is to pioneer novel neurotechnologies that can revolutionize the treatment of neurodegenerative and autoimmune diseases. My current focus is on developing wireless, injectable optoelectronic devices that use near infra‑red light for precise neural modulation. This work promises to advance bio‑electronic medicine by providing a novel tool for manipulating the nervous system
+My name is Preet Patel, and I am currently a Ph.D. student at MIT. I earned my Master's degree (S.M.) from MIT (2022-2024) and completed my undergraduate studies at IIT Kanpur in 2022, double majoring in Electrical and Chemical Engineering with a minor in Computer Science. My research integrates Engineering, Neuroscience, and Applied Physics, specializing in micro and nanofabrication, nanoelectronics, optical systems, and biomedical applications. I combine these interdisciplinary skills to pioneer advanced bioelectronic technologies with potential applications in neuroscience and medicine. Apart from research, I enjoy spending time with friends, playing sports—particularly badminton and squash—and working out.
 
 ## Research Interests
 
