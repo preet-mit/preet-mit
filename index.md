@@ -5,13 +5,34 @@ title: "Home"
 I am a Ph.D. student at MIT. I earned my Master's degree (S.M.) from MIT (2022-2024) and completed my undergraduate studies at IIT Kanpur in 2022, double majoring in Electrical and Chemical Engineering with a minor in Computer Science.<br><br> My research integrates Engineering, Neuroscience, and Applied Physics, specializing in micro and nanofabrication, nanoelectronics, optical systems, and biomedical applications. I combine these interdisciplinary skills to pioneer advanced bioelectronic technologies with potential applications in neuroscience and medicine.<br><br> Outside the lab, I enjoy playing sports such as badminton and squash.
 
 
-<h3 class="fw-bold">Research Interests</h3>
+<!--<h3 class="fw-bold">Research Interests</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Micro/Nano Engineering</div>
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Optoelectronics</div>
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Bioelectronics / Electroceuticals</div>
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Neural Engineering</div>
+</div>-->
+
+<div class="row">
+  <div class="col-md-6">
+    <h3 class="fw-bold">Research Interests</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+      <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Micro/Nano Engineering</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Optoelectronics</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Bioelectronics / Electroceuticals</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Neural Engineering</div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <h3 class="fw-bold">Skills</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+      <div style="flex: 1 1 200px;"><i class="fa fa-cogs"></i> Skill 1</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-cogs"></i> Skill 2</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-cogs"></i> Skill 3</div>
+      <div style="flex: 1 1 200px;"><i class="fa fa-cogs"></i> Skill 4</div>
+    </div>
+  </div>
 </div>
 
 
