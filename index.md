@@ -15,7 +15,7 @@ I am a Ph.D. student at MIT. I earned my Master's degree (S.M.) from MIT (2022-2
 </div>
 
 
-## Education
+<h3 class="fw-bold">Education</h3>
 
 <div style="margin-bottom: 20px;">
   <p style="margin: 0; padding: 0;"><i class="fa fa-graduation-cap"></i> Master of Science (S.M.), MAS, 2024</p>
