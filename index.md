@@ -14,6 +14,16 @@ I am a Ph.D. student at MIT. I earned my Master's degree (S.M.) from MIT (2022-2
 
 <i class="fa fa-book"></i> Neural Engineering
 
+## Research Interests
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Micro/Nano Engineering</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Optoelectronics</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Bioelectronics / Electroceuticals</div>
+  <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Neural Engineering</div>
+</div>
+
+
 ## Education
 
 <div style="margin-bottom: 20px;">
