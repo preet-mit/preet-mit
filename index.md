@@ -5,7 +5,7 @@ title: "Home"
 I am a Ph.D. student at MIT. I earned my Master's degree (S.M.) from MIT (2022-2024) and completed my undergraduate studies at IIT Kanpur in 2022, double majoring in Electrical and Chemical Engineering with a minor in Computer Science. My research integrates Engineering, Neuroscience, and Applied Physics, specializing in micro and nanofabrication, nanoelectronics, optical systems, and biomedical applications. I combine these interdisciplinary skills to pioneer advanced bioelectronic technologies with potential applications in neuroscience and medicine. Outside the lab, I enjoy playing sports such as badminton and squash.
 
 
-<h3 class="fw-bold pb-3 mb-5">Research Interests</h3>
+<h3 class="fw-bold">Research Interests</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1 1 200px;"><i class="fa fa-book"></i> Micro/Nano Engineering</div>
